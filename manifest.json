@@ -1,0 +1,24 @@
+{
+  "name": "Shmyo Öğrenci İşleri",
+  "short_name": "Shmyo",
+  "description": "BUÜ Sağlık Hizmetleri MYO Öğrenci İşleri Yönetim Paneli",
+  "start_url": "/shmyo/",
+  "display": "standalone",
+  "background_color": "#0a1f5c",
+  "theme_color": "#0a1f5c",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://brkyckn.github.io/shmyo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://brkyckn.github.io/shmyo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
